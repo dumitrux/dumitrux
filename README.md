@@ -1,6 +1,8 @@
 ### Hi, I'm Dumitru 👋
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marian-dumitru-danci/)
+
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marian-dumitru-danci/)
+- 🌱 I’m currently learning about Data Engineering
 
 <!--
 **dumitrux/dumitrux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
