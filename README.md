@@ -16,7 +16,7 @@
 
 
 
-![dumitrux's github stats](https://github-readme-stats.vercel.app/api?username=dumitrux&show_icons=true&theme=dracula&hide=contribs)
+![dumitrux's github stats](https://github-readme-stats.vercel.app/api?username=dumitrux&show_icons=true&theme=dracula&hide=contribs&count_private=true)
 
 
 ![pv](https://pageview.vercel.app/?github_user=dumitrux)
